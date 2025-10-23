@@ -1,7 +1,7 @@
 <div align="center">
   <h1>📸 Instagram Clone Pro</h1>
   <p>Modern Instagram-like front-end project with stories, posts, and comments ✨</p>
-  <a href="https://hamiparsa.github.io/Instagram/">
+  <a href="https://honestdev125.github.io/Instagram/">
     <img src="https://img.shields.io/badge/View_Live_Project-1DA1F2?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
@@ -77,7 +77,7 @@ The project highlights:
 
 ## 👨‍💻 Author
 
-**Developed by:** [Hami Parsa](https://github.com/hamiparsa)  
+**Developed by:** [Niku Namada](https://github.com/honestdev125)  
 💬 Front-End Developer | Focused on interactive and modern web projects  
 
 ---

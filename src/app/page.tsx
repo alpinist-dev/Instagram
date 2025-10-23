@@ -301,9 +301,9 @@ const InstagramClone: React.FC = () => {
               <div className="flex items-center justify-between p-3">
                 <div className="flex items-center space-x-3">
                   <div className="w-10 h-10 bg-gray-700 rounded-full flex items-center justify-center text-gray-400 font-bold">
-                    <Image alt="Hami" src='https://cdn-icons-png.flaticon.com/512/3135/3135715.png' width={1000} height={1000}></Image>
+                    <Image alt="Niku" src='https://cdn-icons-png.flaticon.com/512/3135/3135715.png' width={1000} height={1000}></Image>
                   </div>
-                  <span className="font-semibold text-white">Hami Parsa</span>
+                  <span className="font-semibold text-white">Niku Namada</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <FiEdit
